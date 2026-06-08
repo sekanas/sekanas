@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Sekanas M! 👋
 
-<!--
-**sekanas/sekanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student @ St. Joseph College of Engineering (2028)
+📍 Chennai, Tamil Nadu
+💼 UI/UX Designer | Web Dev Learner | Python Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎨 Passionate about UI/UX Design & Web Development
+- 🌱 Currently learning HTML, CSS, JavaScript & Python
+- 💡 Love turning ideas into beautiful interfaces
+- 🏆 1st Place - National Project Presentation @ R.M.K. College
+
+---
+
+## 🛠️ Skills
+- UI/UX Design | Figma | Prototyping | Wireframing
+- HTML | CSS | JavaScript (Learning)
+- Python (Learning)
+- Canva | Web Design
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sekanas-m-328492357
+- Email: bashamabuk@gmail.com
+
+---
+
+⭐ Projects coming soon — stay tuned!
